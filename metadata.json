@@ -1,0 +1,9 @@
+
+{
+  "name": "Noorayan - নূরায়ন",
+  "description": "A minimalist and modern Islamic companion app featuring 20 small Surahs with Bengali translation, Sahih Bukhari Hadith search, bookmarks, and AI-powered Islamic insights.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
